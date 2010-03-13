@@ -9,7 +9,7 @@ function Display (quotes, div) {
 Display.prototype = {
 
   show: function() {
-    var x = this.random();
+    var x = this.next();
     this.area.html(x.quote+"<br/><br/> -- <i>"+x.author+"</i>").fadeIn(1000);
     var self = this;
     window.setTimeout(function() { self.hide(); }, 3000+x.quote.length*30);
@@ -21,7 +21,7 @@ Display.prototype = {
     window.setTimeout(function() { self.show(); }, 2000);
   },
 
-  random: function() {
+  next: function() {
     if (this.index >= this.quotes.length) {
       this.index = 0;
     }
