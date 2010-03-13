@@ -186,5 +186,29 @@
     {
         "quote": "information is not knowledge<br/>knowledge is not wisdom<br/>wisdom is not truth<br/>truth is not beauty<br/>beauty is not love<br/>love is not music<br/>music is the best",
         "author": "the girl from the bus"
+    },
+    {
+        "quote": "The best rulers are scarcely known by their subjects;<br/>The next best are loved and praised;<br/>The next are feared;<br/>The next despised:<br/>They have no faith in their people,<br/>And their people become unfaithful to them.<br/><br/>When the best rulers achieve their purpose<br/>Their subjects claim the achievement as their own.",
+        "author": "Tao Te Ching #17. Rulers"
+    },
+    {
+        "quote": "I don't care about the rules. In fact, if I don't break the rules at least ten times in every song then I'm not doing my job properly.",
+        "author": "Jeff Beck"
+    },
+    {
+        "quote": "Hofstadter's Law: It always takes longer than you expect, even when you take Hofstadter's Law into account.",
+        "author": "Douglas Hofstadter"
+    },
+    {
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler"
+    },
+    {
+        "quote": "Brevity is the soul of wit.",
+        "author": "William Shakespeare"
+    },
+    {
+        "quote": "When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine.",
+        "author": "Pablo Picasso"
     }
 ]

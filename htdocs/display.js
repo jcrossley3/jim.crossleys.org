@@ -17,7 +17,7 @@ Display.prototype = {
   },
 
   hide: function() {
-    this.area.children().fadeOut(2500);
+    this.area.children().fadeOut(2000);
     var self = this;
     window.setTimeout(function() { self.show(); }, 3000);
   },
