@@ -1,0 +1,59 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>jim crossley's org</title>
+    <style type="text/css">
+      body { font-family: helvetica, sans-serif; }
+      ul { list-style-type: none; }
+      .shade { color: gray; font-size: smaller; }
+      a.my { padding-left: 25px; background-repeat: no-repeat; background-position: left; }
+      a.blogger { background-image: url(http://blogger.com/favicon.ico); }
+      a.delicious { background-image: url(http://delicious.com/favicon.ico); }
+      a.flickr { background-image: url(http://flickr.com/favicon.ico); }
+      a.lastfm { background-image: url(http://last.fm/favicon.ico); }
+      a.linkedin { background-image: url(http://www.linkedin.com/favicon.ico); }
+      a.twitter { background-image: url(http://twitter.com/favicon.ico); }
+      a.youtube { background-image: url(http://youtube.com/favicon.ico); }
+      a.google { background-image: url(http://google.com/favicon.ico); }
+      a.facebook { background-image: url(http://facebook.com/favicon.ico); }
+      a.github { background-image: url(http://github.com/favicon.ico); }
+      a.stack { background-image: url(http://stackoverflow.com/favicon.ico); }
+      #links { float: left; }
+      #quote { position: absolute; top: 150px; left: 300px; width: 500px; }
+    </style>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript" src="display.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $.getJSON("quotes.js", function(data) { 
+            new Display(data, $('#quote')).show();
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+    <h1>jim crossley's org</h1>
+
+    <div id="links">
+      <ul>
+        <li><a class="my twitter" href="http://twitter.com/jcrossley3">twitter</a></li>
+        <li><a class="my facebook" href="http://www.facebook.com/jcrossley3">facebook</a></li>
+        <li><a class="my linkedin" href="http://www.linkedin.com/in/jcrossley">linkedin</a></li>
+        <li><a class="my delicious" href="http://delicious.com/jcrossley3">delicious</a></li>
+        <li><a class="my youtube" href="http://www.youtube.com/jcrossley3">youtube</a></li>
+        <li><a class="my flickr" href="http://www.flickr.com/photos/jcrossley3/">flickr</a></li>
+        <li><a class="my lastfm" href="http://www.last.fm/user/jcrossley/">last.fm</a></li>
+        <li><a class="my github" href="http://github.com/jcrossley">github</a></li>
+        <li><a class="my stack" href="http://stackoverflow.com/users/66451/jcrossley3">stackoverflow</a></li>
+        <li><a class="my blogger" href="http://escx.blogspot.com">blogger</a></li>
+        <li><a class="my google" href="http://www.google.com/profiles/jcrossley3">google</a></li>
+      </ul>
+      <ul class="shade">
+        <li><a href="resume.html">resume</a></li>
+        <li><a href="http://www.crossleys.org/~jim">old website</a> (circa 1996)</li>
+      </ul>
+    </div>
+    <div id="quote"/>
+
+  </body>
+</html>
