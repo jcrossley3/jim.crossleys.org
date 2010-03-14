@@ -13,7 +13,7 @@ Display.prototype = {
     this.area.find('#quote').html(x.quote).fadeIn(1000);
     this.area.find('#author').html(x.author).fadeIn(3000);
     var self = this;
-    window.setTimeout(function() { self.hide(); }, 3000+x.quote.length*30);
+    window.setTimeout(function() { self.hide(); }, 3000+x.quote.length*50);
   },
 
   hide: function() {

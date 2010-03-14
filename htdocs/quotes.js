@@ -210,5 +210,33 @@
     {
         "quote": "When art critics get together they talk about Form and Structure and Meaning. When artists get together they talk about where you can buy cheap turpentine.",
         "author": "Pablo Picasso"
+    },
+    {
+        "quote": "Creation has to be inspired by love of someone who is not ourselves.",
+        "author": "Umberto Eco"
+    },
+    {
+        "quote": "Push the beat.",
+        "author": "Miles Davis"
+    },
+    {
+        "quote": "Wait for the beat.",
+        "author": "Chet Atkins"
+    },
+    {
+        "quote": "There are no facts, only interpretations.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "All truly great thoughts are conceived by walking.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "And we should consider every day lost on which we have not danced at least once. And we should call every truth false which was not accompanied by at least one laugh.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "A really great talent finds its happiness in execution.",
+        "author": "Goethe"
     }
 ]
