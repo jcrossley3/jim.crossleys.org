@@ -8,7 +8,7 @@
         "author": "Roy Fielding"
     },
     {
-        "quote": "Over the years, systems engineering and software documentation, including operational concepts, requirements, and specifications of all kinds, has suffered from obesity. When you think of documentation, do not consider the two-hour speech of Edward Everett at the commemoration of the Gettysburg National Cemetery on November 19, 1863.  Think, instead, of the two-minute speech that followed it.",
+        "quote": "When you think of documentation, do not consider the two-hour speech of Edward Everett at the commemoration of the Gettysburg National Cemetery on November 19, 1863.  Think, instead, of the two-minute speech that followed it.",
         "author": "Robert Britcher"
     },
     {
