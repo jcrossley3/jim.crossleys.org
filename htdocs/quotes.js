@@ -236,6 +236,14 @@
         "author": "Friedrich Nietzsche"
     },
     {
+        "quote": "when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow and exclude people. so create.",
+        "author": "why the lucky stiff"
+    },
+    {
+        "quote": "Great minds discuss ideas, average minds discuss events, small minds discuss people.",
+        "author": "Eleanor Roosevelt"
+    },
+    {
         "quote": "A really great talent finds its happiness in execution.",
         "author": "Goethe"
     }
