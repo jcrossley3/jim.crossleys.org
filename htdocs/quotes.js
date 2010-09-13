@@ -246,5 +246,9 @@
     {
         "quote": "A really great talent finds its happiness in execution.",
         "author": "Goethe"
+    },
+    {
+        "quote": "A player who makes his team great is more valuable than a great player.",
+        "author": "John Wooden"
     }
 ]
