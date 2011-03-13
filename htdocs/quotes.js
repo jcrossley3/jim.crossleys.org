@@ -250,5 +250,9 @@
     {
         "quote": "A player who makes his team great is more valuable than a great player.",
         "author": "John Wooden"
+    },
+    {
+        "quote": "I'm always delighted by the light touch and stillness of early programming languages. Not much text; a lot gets done. Old programs read like quiet conversations between a well-spoken research worker and a well-studied mechanical colleague, not as a debate with a compiler. Who'd have guessed sophistication bought such noise?",
+        "author": "Richard Gabriel"
     }
 ]
