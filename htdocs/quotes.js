@@ -254,5 +254,9 @@
     {
         "quote": "I'm always delighted by the light touch and stillness of early programming languages. Not much text; a lot gets done. Old programs read like quiet conversations between a well-spoken research worker and a well-studied mechanical colleague, not as a debate with a compiler. Who'd have guessed sophistication bought such noise?",
         "author": "Richard Gabriel"
+    },
+    {
+        "quote": "A bad design with a complete test suite is still a bad design."
+        "author": "Rich Hickey"
     }
 ]
