@@ -256,7 +256,7 @@
         "author": "Richard Gabriel"
     },
     {
-        "quote": "A bad design with a complete test suite is still a bad design."
+        "quote": "A bad design with a complete test suite is still a bad design.",
         "author": "Rich Hickey"
     }
 ]
