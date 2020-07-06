@@ -256,6 +256,14 @@
         "author": "Richard Gabriel"
     },
     {
+        "quote": "A genius is one who is most like himself.",
+        "author": "Thelonious Monk"
+    },
+    {
+        "quote": "The piano ain't got no wrong notes!",
+        "author": "Thelonious Monk"
+    },
+    {
         "quote": "A bad design with a complete test suite is still a bad design.",
         "author": "Rich Hickey"
     }
