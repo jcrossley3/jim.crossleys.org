@@ -68,6 +68,10 @@
         "author": "Bjarne Stroustrup"
     },
     {
+        "quote": "Design and programming are human activities; forget that and all is lost.",
+        "author": "Bjarne Stroustrup"
+    },
+    {
         "quote": "The world is a tragedy to those who feel, but a comedy to those who think.",
         "author": "Horace Walpole"
     },
